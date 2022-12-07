@@ -13,5 +13,14 @@ h3 {
 
 h1 {
     text-align: center;
-    color: red;
+    color:darkblue;
+}
+img {
+    width: 850px;
+    height: 300px;
+    margin-left: 300px;
+}
+figure {
+    background-color:darkgreen;
+
 }
